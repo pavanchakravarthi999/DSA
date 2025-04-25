@@ -21,15 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/pavanchakravarthi999/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/pavanchakravarthi999/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pavanchakravarthi999/DSA/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/pavanchakravarthi999/DSA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
