@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pavanchakravarthi999/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/pavanchakravarthi999/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/pavanchakravarthi999/DSA/tree/master/0064-minimum-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/pavanchakravarthi999/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pavanchakravarthi999/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/pavanchakravarthi999/DSA/tree/master/0064-minimum-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -42,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pavanchakravarthi999/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/pavanchakravarthi999/DSA/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
