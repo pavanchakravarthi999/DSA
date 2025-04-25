@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavanchakravarthi999/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pavanchakravarthi999/DSA/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/pavanchakravarthi999/DSA/tree/master/0063-unique-paths-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pavanchakravarthi999/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/pavanchakravarthi999/DSA/tree/master/0063-unique-paths-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pavanchakravarthi999/DSA/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/pavanchakravarthi999/DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
