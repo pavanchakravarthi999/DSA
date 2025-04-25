@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pavanchakravarthi999/DSA/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pavanchakravarthi999/DSA/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pavanchakravarthi999/DSA/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pavanchakravarthi999/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
