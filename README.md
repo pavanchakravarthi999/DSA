@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/pavanchakravarthi999/DSA/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/pavanchakravarthi999/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
