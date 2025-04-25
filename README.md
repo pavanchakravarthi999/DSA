@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/pavanchakravarthi999/DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/pavanchakravarthi999/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [2427-first-letter-to-appear-twice](https://github.com/pavanchakravarthi999/DSA/tree/master/2427-first-letter-to-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/pavanchakravarthi999/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/pavanchakravarthi999/DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/pavanchakravarthi999/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [2427-first-letter-to-appear-twice](https://github.com/pavanchakravarthi999/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/pavanchakravarthi999/DSA/tree/master/0435-non-overlapping-intervals) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/pavanchakravarthi999/DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
