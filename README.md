@@ -77,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pavanchakravarthi999/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pavanchakravarthi999/DSA/tree/master/0110-balanced-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/pavanchakravarthi999/DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/pavanchakravarthi999/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
