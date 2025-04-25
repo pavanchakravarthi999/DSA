@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pavanchakravarthi999/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pavanchakravarthi999/DSA/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pavanchakravarthi999/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0416-partition-equal-subset-sum](https://github.com/pavanchakravarthi999/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/pavanchakravarthi999/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/pavanchakravarthi999/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pavanchakravarthi999/DSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/pavanchakravarthi999/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Combinatorics
 |  |
 | ------- |
