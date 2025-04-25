@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pavanchakravarthi999/DSA/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pavanchakravarthi999/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/pavanchakravarthi999/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/pavanchakravarthi999/DSA/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
 | ------- |
