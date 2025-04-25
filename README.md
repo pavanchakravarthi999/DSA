@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/pavanchakravarthi999/DSA/tree/master/0242-valid-anagram) |
+| [2427-first-letter-to-appear-twice](https://github.com/pavanchakravarthi999/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/pavanchakravarthi999/DSA/tree/master/0242-valid-anagram) |
+| [2427-first-letter-to-appear-twice](https://github.com/pavanchakravarthi999/DSA/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -126,4 +128,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pavanchakravarthi999/DSA/tree/master/0287-find-the-duplicate-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/pavanchakravarthi999/DSA/tree/master/2427-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/pavanchakravarthi999/DSA/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
