@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/pavanchakravarthi999/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/pavanchakravarthi999/DSA/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/pavanchakravarthi999/DSA/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/pavanchakravarthi999/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -169,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/pavanchakravarthi999/DSA/tree/master/1014-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pavanchakravarthi999/DSA/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pavanchakravarthi999/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
