@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pavanchakravarthi999/DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/pavanchakravarthi999/DSA/tree/master/0792-binary-search) |
 | [0967-minimum-falling-path-sum](https://github.com/pavanchakravarthi999/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/pavanchakravarthi999/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [3227-find-missing-and-repeated-values](https://github.com/pavanchakravarthi999/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pavanchakravarthi999/DSA/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/pavanchakravarthi999/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/pavanchakravarthi999/DSA/tree/master/0435-non-overlapping-intervals) |
+| [1014-k-closest-points-to-origin](https://github.com/pavanchakravarthi999/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pavanchakravarthi999/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/pavanchakravarthi999/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pavanchakravarthi999/DSA/tree/master/0070-climbing-stairs) |
+| [1014-k-closest-points-to-origin](https://github.com/pavanchakravarthi999/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [3227-find-missing-and-repeated-values](https://github.com/pavanchakravarthi999/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -150,4 +153,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/pavanchakravarthi999/DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pavanchakravarthi999/DSA/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pavanchakravarthi999/DSA/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pavanchakravarthi999/DSA/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pavanchakravarthi999/DSA/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
