@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pavanchakravarthi999/DSA/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/pavanchakravarthi999/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/pavanchakravarthi999/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/pavanchakravarthi999/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [2427-first-letter-to-appear-twice](https://github.com/pavanchakravarthi999/DSA/tree/master/2427-first-letter-to-appear-twice) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/pavanchakravarthi999/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/pavanchakravarthi999/DSA/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
