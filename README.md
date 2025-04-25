@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/pavanchakravarthi999/DSA/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/pavanchakravarthi999/DSA/tree/master/0196-delete-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/pavanchakravarthi999/DSA/tree/master/0584-find-customer-referee) |
 ## Two Pointers
 |  |
 | ------- |
