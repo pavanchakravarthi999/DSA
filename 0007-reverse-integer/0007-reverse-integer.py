@@ -1,4 +1,6 @@
-__import__("atexit").register(lambda: open("display_runtime.txt","W").write("0"))
+
+
+__import__("atexit").register(lambda: open("display_runtime.txt", 'w').write('0'))
 class Solution:
     def reverse(self, x: int) -> int:
         negative = False
